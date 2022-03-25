@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home_nav_graph"
+        android:title="@string/main"
+        android:icon="@drawable/bn_ic_menu"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/archive_nav_grpah"
+        android:icon="@drawable/bn_ic_archive"
+        android:title="@string/archive"
+        app:showAsAction="ifRoom" />
+
+</menu>

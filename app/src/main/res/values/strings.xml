@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main">Главное</string>
+    <string name="archive">Архив</string>
+    <string name="produc_name">Наименование товара</string>
+    <string name="print_product_name">Впишите название товара</string>
+    <string name="product_price">Цена товара</string>
+    <string name="supplier">Производитель товара</string>
+    <string name="print_supplier">Название производителя товара</string>
+    <string name="print_product_price">Впишите цену товара</string>
+    <string name="quantity">Количество товара</string>
+    <string name="save">Сохранить</string>
+    <string name="edit">Редактировать</string>
+    <string name="add">Добавить товар</string>
+    <string name="restore">Восстановить</string>
+    <string name="delete">Удалить</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="cancel">Отмена</string>
+</resources>
